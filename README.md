@@ -14,6 +14,6 @@ Arsenic (As) is a kind of toxic metal-like element widely distributed in the wor
 
 <b>4. length.txt</b>: The file contains the length of amino acid sequences in AsgeneDB for standardizing arsenic gene abundance statistics.
 
-<b>5. gene_abundance.R </b>: Script used to statistical information of functional species in samples.
+<b>5. gene_abundance.R </b>: Script used to calculate and standardize gene abundance in samples.
 
-<b>6. sample_gene_tax.R </b>: Script used to calculate and standardize gene abundance in samples.
+<b>6. sample_gene_tax.R </b>: Script used to statistical information of functional species in samples.
