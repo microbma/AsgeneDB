@@ -1,7 +1,7 @@
 # AsgeneDB: A functional gene database for metagenomic profiling of arsenic metabolism
 A manually curated arsenic functional gene database (AsgeneDB) was developed for rapid and accurate metagenomic analysis.
 
-Xinwei Song1,2 , Yongguan Zhu3 ,  Yongming Luo4, Bin Ma*1,2,Jianming Xu 1,2 
+Xinwei Song, Yongguan Zhu, Yongming Luo, Bin Ma*, Jianming Xu 
 
 
 Arsenic (As) is a kind of toxic metal-like element widely distributed in the world. To understand the microbial community of arsenic metabolism in the environment, we developed a curated arsenic functional gene database (AsgeneDB) covering four arsenic metabolic pathways (oxidative, respiratory, reduction and methylation processes), 59 arsenic biotransformation functional gene families and 414773 representative sequences. Here, protein sequences for As gene families were recruited from multiple public databases such as UniProt, KEGG, COG, eggNOG, arCOG and KOG. AsgeneDB covers 46 phyla and 1653 genera of bacterial archaea and fungi. It can quickly analyze the arsenic metabolism and transformation function of microbial communities by integrating multiple lineal homology databases with high specificity, comprehensiveness, representativeness and accuracy.
